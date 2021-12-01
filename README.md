@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omar-tabbush
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on (sorry not yet)
 - 📫 How to reach me +96170419748
 
