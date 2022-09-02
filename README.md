@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @omar-tabbush
-- Learning about asp.net web api as backend development 
-- interested about flutter, react, angular, artificial intelligence, machine learning and no-sql database in the future..
+- #_Never stop learning_#
