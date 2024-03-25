@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @omar-tabbush
-- #_Never stop learning_#
